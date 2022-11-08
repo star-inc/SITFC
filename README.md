@@ -1,6 +1,6 @@
 # SITFC
 
-Star Inc. - Transport Format with Compressed 
+Star Inc. - Transport Format with Compression 
 
 ## Expression
 
